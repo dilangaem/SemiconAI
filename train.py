@@ -110,7 +110,7 @@ class RFCModel:
         print(classification_report(test_y, y_rbf_test))
 
     def save(self):
-        dir='Saved_Model'
+        dir='TRAINED'
         now=datetime.now().strftime('%Y%m%d_%H%M%S')
         filename = f'{dir}/model-{now}.sav'
         if not os.path.exists(dir):
