@@ -1,2 +1,0 @@
-Download the feature set from https://figshare.com/s/3d5e36383f88149df289
-Here, the first column is for materials class (i.e., metal:0 and non-metal: 1)
