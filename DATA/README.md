@@ -6,3 +6,6 @@ This folder has following files
 - **predict_data.csv** : a sample file to show how to create a data file for predicting new metals and non-metals.
 
 ### Data File Structure
+|Chemical Formula | Target | Crystal System|
+|-----------------|--------|---------------|
+| | | |
