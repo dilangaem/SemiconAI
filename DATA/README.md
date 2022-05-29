@@ -8,4 +8,4 @@ This folder has following files
 ### Data File Structure
 |Chemical Formula | Target | Crystal System|
 |-----------------|--------|---------------|
-| | | |
+| | 1: non-metal, 0: metal| |
