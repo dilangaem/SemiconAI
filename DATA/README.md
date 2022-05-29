@@ -1,1 +1,1 @@
-This folder has the data and the feature sets for the project.
+This folder has the atomic data, training data and sample file to show how to create a data file for predicting new the metals and non-metals.
