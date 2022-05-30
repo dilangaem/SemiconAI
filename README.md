@@ -18,7 +18,7 @@ It is highly recomending to build a python environment to use our code
 
 ## Training the model
 
-The data files must be in the DATA folder. You can specify a crystal system in the train.py file, if you want a specific system for your project. To train the model, run the following command.  <br />  <br />
+The data files must be in the DATA folder. You can specify a crystal system in the train.py file, if you want a specific system for your project. For example, to train the model, run the following command.  <br />  <br />
 python train.py --file_name data_file.csv --sym cubic
 
 ### Data File Structure
@@ -28,6 +28,6 @@ Please use the following format to create the training and predicting data files
 | | 1: non-metal, 0: metal| |
 
 ## Predicting New Metals or Non-metals
-Mention all the chemical formulas and their crystal systems in a data file with the above format. You can state 1 or 0 in the Target column. To predict metals/non-metals, run the following command. <br />  <br />
+Mention all the chemical formulas and their crystal systems in a data file with the above format. You can state 1 or 0 in the Target column. For example, to predict metals/non-metals, run the following command. <br />  <br />
 python predict.py --file_name predict_data.csv
 
