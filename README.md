@@ -16,5 +16,7 @@ cite:  "Siriwardane E, Zhao Y, Perera I, Hu J. Generative Design of Stable Semic
 
 It is highly recomending to build a python environment to use our code
 
-### Train the model
+## Train the model
+
+The data files must be in the DATA folder. 
 python train.py
