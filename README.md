@@ -28,6 +28,6 @@ Please use the following format to create the training and predicting data files
 | | 1: non-metal, 0: metal| |
 
 ## Predicting New Metals or Non-metals
-Mention all the chemical formulas and their crystal systems in a data file with the above format. In order to keep the file strucutre, you can state 1 or 0 in the Target column. As an example, to predict metals/non-metals, run the following command. <br />  <br />
+Mention all the chemical formulas and their crystal systems in a data file with the above format. In order to keep the file strucutre, you can state 1 or 0 in the Target column. For clarity, a sample file named predict_data.csv is in DATA folder. As an example, to predict metals/non-metals, run the following command. <br />  <br />
 python predict.py --file_name predict_data.csv
 
