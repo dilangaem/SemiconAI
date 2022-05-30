@@ -22,7 +22,7 @@ How to cite::
 
 It is highly recomending to build a python environment to use our code
 
-## Training the model
+## Training the Model
 
 The data files must be in the DATA folder. In the DATA folder, we provide a file with quaternary materials' data (data_file.csv), which was used in the paper.  <br />  <br />
 
