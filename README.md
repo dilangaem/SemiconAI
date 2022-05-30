@@ -22,7 +22,7 @@ The data files must be in the DATA folder. You can specify a crystal system in t
 python train.py
 
 ### Data File Structure
-Please use the following format to create the training and predicting data files.
+Please use the following format to create the training and predicting data files with .csv extension.
 |Chemical Formula | Target | Crystal System|
 |-----------------|--------|---------------|
 | | 1: non-metal, 0: metal| |
