@@ -1,4 +1,4 @@
-# semiconAI
+# SemiconAI
 This project contains a metal/non-metal classifier developed using random forest algorithm. We combine this classifier with the CubicGAN model for computationally discovering new semiconductor materials. Our work is reported in detail in the following preprint.
 
 #### [Generative Design of Stable Semiconductor Materials Using Deep Learning and DFT](https://chemrxiv.org/engage/chemrxiv/article-details/61d08f7275c57229dbff6255)
