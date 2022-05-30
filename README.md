@@ -7,7 +7,7 @@ cite:  "Siriwardane E, Zhao Y, Perera I, Hu J. Generative Design of Stable Semic
 
 **Under construction**
 
-<img src='semiconAI.pdf'>
+<img src='[semiconAI.pdf](https://github.com/dilangaem/semiconAI/blob/main/semiconAI.pdf)'>
 
 ## Prerequisites
 - python 3.7
