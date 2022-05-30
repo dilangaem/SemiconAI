@@ -27,4 +27,6 @@ Please use the following format to create the training and predicting data files
 |-----------------|--------|---------------|
 | | 1: non-metal, 0: metal| |
 
+## Predicting New Metals or Non-metals
+
 
