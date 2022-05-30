@@ -23,7 +23,7 @@ The data files must be in the DATA folder. You can specify a crystal system in t
 For example, to train the model with cubic crystal systems, run the following command.  <br />
 python train.py --file_name data_file.csv --sym cubic
 
-To train the model with all the crystal systems, run the following command.
+To train the model with all the crystal systems, run the following command. <br />
 python train.py --file_name data_file.csv --sym all
 
 
