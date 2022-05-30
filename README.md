@@ -5,7 +5,7 @@ This project contains a metal/non-metal classifier developed using random forest
 
 cite:
 -  Zhao, Y., Al-Fahdi, M., Hu, M., Siriwardane, E. M. D., Song, Y., Nasiri, A., Hu, J., High-Throughput Discovery of Novel Cubic Crystal Materials Using Deep Generative Neural Networks. Adv. Sci. 2021, 8, 2100566. https://doi.org/10.1002/advs.202100566 
-- Siriwardane E, Zhao Y, Perera I, Hu J. Generative Design of Stable Semiconductor Materials Using Deep Learning And DFT. ChemRxiv. Cambridge: Cambridge Open Engage; 2022; This content is a preprint and has not been peer-reviewed.
+- Siriwardane E, Zhao Y, Perera I, Hu J. Generative Design of Stable Semiconductor Materials Using Deep Learning and DFT. ChemRxiv. Cambridge: Cambridge Open Engage; 2022; This content is a preprint and has not been peer-reviewed.
 
 **Under construction**
 
