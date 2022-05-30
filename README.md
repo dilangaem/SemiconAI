@@ -18,8 +18,14 @@ It is highly recomending to build a python environment to use our code
 
 ## Training the model
 
-The data files must be in the DATA folder. You can specify a crystal system in the train.py file, if you want a specific system for your project. For example, to train the model, run the following command.  <br />  <br />
+The data files must be in the DATA folder. You can specify a crystal system in the train.py file, if you want a specific system for your project. <br />  <br />
+
+For example, to train the model with cubic crystal systems, run the following command.  <br>/
 python train.py --file_name data_file.csv --sym cubic
+
+To train the model with all the crystal systems, run the following command.
+python train.py --file_name data_file.csv --sym all
+
 
 ### Data File Structure
 Please use the following format to create the training and predicting data files with .csv extension.
