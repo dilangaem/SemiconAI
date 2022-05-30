@@ -18,5 +18,5 @@ It is highly recomending to build a python environment to use our code
 
 ## Train the model
 
-The data files must be in the DATA folder. 
+The data files must be in the DATA folder. <br />
 python train.py
