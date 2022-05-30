@@ -18,7 +18,7 @@ It is highly recomending to build a python environment to use our code
 
 ## Training the model
 
-The data files must be in the DATA folder. In the DATA folder, we provide a file with quanternery materials' data, which was used in the paper. You can specify a crystal system in the train.py file, if you want a specific system for your project. <br />  <br />
+The data files must be in the DATA folder. In the DATA folder, we provide a file with quanternery materials' data (data_file.csv), which was used in the paper.  <br />  <br />
 
 For example, to train the model with cubic crystal systems, run the following command.  <br />
 python train.py --file_name data_file.csv --sym cubic --train_size 0.1
