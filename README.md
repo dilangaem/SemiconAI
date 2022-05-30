@@ -20,7 +20,7 @@ How to cite::
 - sklearn 1.0.0
 - scipy 1.5.1
 
-It is highly recommended to build a python environment to use our code
+It is highly recommended to build a python environment to use our code.
 
 ## Training the Model
 
