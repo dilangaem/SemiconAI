@@ -18,5 +18,13 @@ It is highly recomending to build a python environment to use our code
 
 ## Train the model
 
-The data files must be in the DATA folder. Please see the readme.md in the DATA  folder for the data file format. You can specify a crystal system in the train.py file, if you want a specific system for your project. To train the model, run the following command.  <br />  <br />
+The data files must be in the DATA folder. You can specify a crystal system in the train.py file, if you want a specific system for your project. To train the model, run the following command.  <br />  <br />
 python train.py
+
+### Data File Structure
+Please use the following format to create the training and predicting data files.
+|Chemical Formula | Target | Crystal System|
+|-----------------|--------|---------------|
+| | 1: non-metal, 0: metal| |
+
+
