@@ -1,5 +1,7 @@
 # semiconAI
-How to use Artificial Intelligence to Discover New Semiconductors
+This project contains a metal/non-metal classifier developed using random forest algorithms for computationally discovering new semiconductor materials. Our work is reported in detail in the following publication.
+
+[### Generative Design of Stable Semiconductor Materials Using Deep Learning And DFT](https://chemrxiv.org/engage/chemrxiv/article-details/61d08f7275c57229dbff6255)
 
 **Under construction**
 
