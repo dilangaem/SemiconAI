@@ -14,4 +14,4 @@ cite:  "Siriwardane E, Zhao Y, Perera I, Hu J. Generative Design of Stable Semic
 - sklearn 1.0.0
 - scipy 1.5.1
 
-It is highly recomending to use a python environment to use our code
+It is highly recomending to build a python environment to use our code
