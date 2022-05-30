@@ -43,5 +43,5 @@ Please use the following format to create the training and predicting data files
 Mention all the chemical formulas and their crystal systems in a data file with the above format. In order to keep the file strucutre, you can state 1 or 0 in the Target column. For clarity, a sample file named predict_data.csv is in DATA folder. We also provided a trained model in the TRAINED forlder for quaternary cubic materials. <br /> <br />
 
 As an example, to predict metals/non-metals, run the following command. <br /> 
-python predict.py --file_name predict_data.csv --model model-2022_05_29_12_19_44.sav
+python predict.py --file_name predict_data.csv --model_name model-2022_05_29_12_19_44.sav
 
