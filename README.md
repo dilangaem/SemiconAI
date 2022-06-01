@@ -6,14 +6,12 @@
 This repository contains a metal/non-metal classifier developed using random forest algorithm. We combine this classifier with the CubicGAN model for computationally discovering new semiconductor materials. Our work is reported in detail in the following preprint.
 
 #### [Generative Design of Stable Semiconductor Materials Using Deep Learning and DFT](https://chemrxiv.org/engage/chemrxiv/article-details/61d08f7275c57229dbff6255)
-span {
-        background-color: rgba(255, 127, 80, 0.58);
-     
+
 How to cite:
 
 - Siriwardane E, Zhao Y, Perera I, Hu J. Generative Design of Stable Semiconductor Materials Using Deep Learning and DFT. ChemRxiv. Cambridge: Cambridge Open Engage; 2022; This content is a preprint and has not been peer-reviewed.
 - Zhao, Y., Al-Fahdi, M., Hu, M., Siriwardane, E. M. D., Song, Y., Nasiri, A., Hu, J., High-Throughput Discovery of Novel Cubic Crystal Materials Using Deep Generative Neural Networks. Adv. Sci. 2021, 8, 2100566. https://doi.org/10.1002/advs.202100566
-}
+
 <img src='https://github.com/dilangaem/semiconAI/blob/main/semiconAI.jpg'>
 
 ## Prerequisites
@@ -38,7 +36,6 @@ To train the model for quaternary materials with all the crystal systems, run th
 ```bash
 python train.py --file_name data_file.csv --sym all --test_size 0.1
 ```
-
 
 ### Data File Structure
 Please use the following format to create the training and predicting data files with .csv extension.
