@@ -27,10 +27,10 @@ It is highly recommended to build a python environment to use our code.
 The data files must be in the DATA folder. In the DATA folder, we provide a file with quaternary materials' data (data_file.csv), which was used in the paper.  <br />  <br />
 
 For example, to train the model for quaternary cubic materials, run the following command.  <br />
-python train.py --file_name data_file.csv --sym cubic --test_size 0.1
+'python train.py --file_name data_file.csv --sym cubic --test_size 0.1'
 
 To train the model for quaternary materials with all the crystal systems, run the following command. <br />
-python train.py --file_name data_file.csv --sym all --test_size 0.1
+'python train.py --file_name data_file.csv --sym all --test_size 0.1'
 
 
 ### Data File Structure
@@ -43,5 +43,5 @@ Please use the following format to create the training and predicting data files
 Mention all the chemical formulas and their crystal systems in a .csv data file with the above format. In order to keep the file strucutre, you can state 1 or 0 in the Target column. For clarity, a sample file named predict_data.csv is in DATA folder. We also provided a trained model in the TRAINED forlder for quaternary cubic materials. <br /> <br />
 
 As an example, to predict metals/non-metals, run the following command. <br /> 
-python predict.py --file_name predict_data.csv --model_name model-2022_05_29_12_19_44.sav
+'python predict.py --file_name predict_data.csv --model_name model-2022_05_29_12_19_44.sav'
 
