@@ -27,7 +27,9 @@ It is highly recommended to build a python environment to use our code.
 The data files must be in the DATA folder. In the DATA folder, we provide a file with quaternary materials' data (data_file.csv), which was used in the paper.  <br />  <br />
 
 For example, to train the model for quaternary cubic materials, run the following command.  <br />
-`python train.py --file_name data_file.csv --sym cubic --test_size 0.1`
+```bash
+python train.py --file_name data_file.csv --sym cubic --test_size 0.1
+```
 
 To train the model for quaternary materials with all the crystal systems, run the following command. <br />
 `python train.py --file_name data_file.csv --sym all --test_size 0.1`
