@@ -9,7 +9,7 @@ This repository contains a metal/non-metal classifier developed using random for
 
 How to cite:
 
-- Siriwardane E, Zhao Y, Perera I, Hu J. Generative Design of Stable Semiconductor Materials Using Deep Learning and DFT. ChemRxiv. Cambridge: Cambridge Open Engage; 2022; This content is a preprint and has not been peer-reviewed.
+- Siriwardane, E.M.D., Zhao, Y., Perera, I. et al. Generative design of stable semiconductor materials using deep learning and density functional theory. npj Comput Mater 8, 164 (2022). https://doi.org/10.1038/s41524-022-00850-3
 - Zhao, Y., Al-Fahdi, M., Hu, M., Siriwardane, E. M. D., Song, Y., Nasiri, A., Hu, J., High-Throughput Discovery of Novel Cubic Crystal Materials Using Deep Generative Neural Networks. Adv. Sci. 2021, 8, 2100566. https://doi.org/10.1002/advs.202100566
 
 <img src='https://github.com/dilangaem/semiconAI/blob/main/semiconAI.jpg'>
