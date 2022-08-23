@@ -5,7 +5,7 @@
 
 This repository contains a metal/nonmetal classifier developed using random forest algorithm. We combine this classifier with the CubicGAN model for computationally discovering new semiconductor materials. Our work is reported in detail in the following preprint.
 
-#### [Generative Design of Stable Semiconductor Materials Using Deep Learning and DFT](https://chemrxiv.org/engage/chemrxiv/article-details/61d08f7275c57229dbff6255)
+#### [Generative Design of Stable Semiconductor Materials Using Deep Learning and DFT](https://www.nature.com/articles/s41524-022-00850-3)
 
 How to cite:
 
