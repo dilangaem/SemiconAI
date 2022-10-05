@@ -1,6 +1,6 @@
 # SemiconAI
 
-This repository contains a metal/nonmetal classifier developed using random forest algorithm. We combine this classifier with the CubicGAN model for computationally discovering new semiconductor materials. Our work is reported in detail in the following preprint.
+This repository contains a metal/nonmetal classifier developed using random forest algorithm. We combine this classifier with the CubicGAN model for computationally discovering new semiconductor materials. Our work is reported in detail in the following publication.
 
 #### [Generative Design of Stable Semiconductor Materials Using Deep Learning and DFT](https://www.nature.com/articles/s41524-022-00850-3)
 
